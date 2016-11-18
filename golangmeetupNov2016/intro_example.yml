@@ -1,0 +1,14 @@
+name:
+  firstname: suraj
+  lastname: deshmukh
+company: Red Hat
+reach_out:
+  twitter: "@surajd_"
+  irc: surajd
+  slack: surajd
+  mail: surajd@redhat.com
+projects:
+  - kompose
+  - openshift
+  - kubernetes
+  - opencompose
